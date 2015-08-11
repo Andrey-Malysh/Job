@@ -1,0 +1,8 @@
+F:\Programs\21.07.2015 DrawFunc\DrawFunc\DrawFunc\bin\Debug\DrawFunc.exe.config
+F:\Programs\21.07.2015 DrawFunc\DrawFunc\DrawFunc\bin\Debug\DrawFunc.exe
+F:\Programs\21.07.2015 DrawFunc\DrawFunc\DrawFunc\bin\Debug\DrawFunc.pdb
+F:\Programs\21.07.2015 DrawFunc\DrawFunc\DrawFunc\obj\Debug\DrawFunc.Form1.resources
+F:\Programs\21.07.2015 DrawFunc\DrawFunc\DrawFunc\obj\Debug\DrawFunc.Properties.Resources.resources
+F:\Programs\21.07.2015 DrawFunc\DrawFunc\DrawFunc\obj\Debug\DrawFunc.csproj.GenerateResource.Cache
+F:\Programs\21.07.2015 DrawFunc\DrawFunc\DrawFunc\obj\Debug\DrawFunc.exe
+F:\Programs\21.07.2015 DrawFunc\DrawFunc\DrawFunc\obj\Debug\DrawFunc.pdb

@@ -1,0 +1,6 @@
+F:\Programs\08.08.2015 Olimpic\Olimpiada 0\Olimpiada 0\bin\Debug\Olimpiada 0.exe.config
+F:\Programs\08.08.2015 Olimpic\Olimpiada 0\Olimpiada 0\bin\Debug\Olimpiada 0.exe
+F:\Programs\08.08.2015 Olimpic\Olimpiada 0\Olimpiada 0\bin\Debug\Olimpiada 0.pdb
+F:\Programs\08.08.2015 Olimpic\Olimpiada 0\Olimpiada 0\obj\Debug\Olimpiada 0.csprojResolveAssemblyReference.cache
+F:\Programs\08.08.2015 Olimpic\Olimpiada 0\Olimpiada 0\obj\Debug\Olimpiada 0.exe
+F:\Programs\08.08.2015 Olimpic\Olimpiada 0\Olimpiada 0\obj\Debug\Olimpiada 0.pdb

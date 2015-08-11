@@ -1,0 +1,9 @@
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\bin\Debug\2D Треугольник.exe.config
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\bin\Debug\2D Треугольник.exe
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\bin\Debug\2D Треугольник.pdb
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\obj\Debug\2D Треугольник.csprojResolveAssemblyReference.cache
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\obj\Debug\_2D_Треугольник.Form1.resources
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\obj\Debug\_2D_Треугольник.Properties.Resources.resources
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\obj\Debug\2D Треугольник.csproj.GenerateResource.Cache
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\obj\Debug\2D Треугольник.exe
+F:\Programs\21.07.2015 2D Треугольник\2D Треугольник\2D Треугольник\obj\Debug\2D Треугольник.pdb
